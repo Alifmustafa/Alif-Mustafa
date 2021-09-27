@@ -1,8 +1,8 @@
-h1{
-    color:blue
-    }
-    ol{
-        color:black;
-        
-    }
-    a herf {color: black;}
+h1{color: black;}
+   h1{font-size: 50px; }
+.blog{
+    font-size: 30px;}
+.info{
+    font-size: 25px;
+}
+
